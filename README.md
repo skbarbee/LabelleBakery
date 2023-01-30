@@ -17,8 +17,6 @@ Alina Ishizaki
 ### Technologies Used
 
 - React
-- Django
-- Python
 - PostgreSQL
 - CSS
 - JavaScript
@@ -29,6 +27,7 @@ Alina Ishizaki
 
 ```
 As a user, I want the ability to... 
+- sign up, sign in, change password, and sign out
 - view and search for cakes by name and price
 - make, edit, and delete a cake order
 - customize a cake order
@@ -42,3 +41,4 @@ As an admin, I want the ability to...
 - create, edit, and delete cake images
 - create, edit, and delete cake descriptions
 - create, edit, and delete cake prices
+
