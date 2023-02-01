@@ -32,6 +32,7 @@ As a user, I want the ability to...
 - make, edit, and delete a cake order
 - customize a cake order
 - comment, review and rate a cake
+```
 
 ## ADMIN STORY
 
@@ -41,4 +42,4 @@ As an admin, I want the ability to...
 - create, edit, and delete cake images
 - create, edit, and delete cake descriptions
 - create, edit, and delete cake prices
-
+```
